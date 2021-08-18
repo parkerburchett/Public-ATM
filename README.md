@@ -4,7 +4,8 @@ In this repo there are a few things
  
 1. The raw data `Obfuscated ATM data.csv`. This contains information about the datetime, the amount requested, if the transaction was approved, metadata about the transaction, and a unique customer identifier.
   
-  
-2. `Analysis.ipynb`. This notebook cleans the raw data and then does some analysis on the relationship between time of day, weekday and repeat customers.(not finished)
+2. `Exploratory Data Analysis.ipynb`. Notebook with analysis on the frequency, distribution and characteristics of the transaction data. Has neet charts.
+
+3. The other notebooks are still works in progress.
  
  
